@@ -1,0 +1,82 @@
+[
+  {
+    "question": "¿Que origen tiene el refran dime con quien andas y te dire quien eres?",
+    "choice1":"uruguayo",
+    "choice2":"chileno",
+    "choice3":"argentino",
+    "choice4":"peruano",
+    "answer": 3
+  },
+  {
+    "question": "¿Que efectos causa el consumo de cafeina?",
+    "choice1":"aumenta la actividad del corazon y de los pulmones",
+    "choice2":"reduce la actividad del sistema nervioso",
+    "choice3":"genera adiccion",
+    "choice4":"a y c son correctas",
+    "answer": 4
+  },
+  {
+    "question": "¿Con que elementos esta formada el agua?",
+    "choice1":"Hidrogeno y Helio",
+    "choice2":"Hidrogeno y Oxigeno",
+    "choice3":"Oxigeno y Hierro",
+    "choice4":"Cloro y sodio",
+    "answer": 2
+  },
+  {
+    "question": "¿La opera es una forma musical de que caracter?",
+    "choice1":"Mistico",
+    "choice2":"Narrativo",
+    "choice3":"Ninguna es correcta",
+    "choice4":"Epico",
+    "answer": 2
+  },
+  {
+    "question": "¿Por que parte del cuerpo perdemos mas calor?",
+    "choice1":"Manos",
+    "choice2":"Pies",
+    "choice3":"Cabeza",
+    "choice4":"Axilas",
+    "answer": 3
+  },
+  {
+    "question": "Los 7 dioses de la buena suerte traen buena fortuna, salud y larga vida ¿Que paises adoran a estos dioses?",
+    "choice1":"Japon",
+    "choice2":"Egipto",
+    "choice3":"Sudafrica",
+    "choice4":"Republica dominicana",
+    "answer": 1
+  },
+  {
+    "question": "Segun una cancion suya, que es lo que quiere saber la mona Gimenez?",
+    "choice1":"¿Quien le manda un ramito de violetas?",
+    "choice2":"¿Quien se tomo todo el vino?",
+    "choice3":"¿Quien es la novia blanca?",
+    "choice4":"ninguna de las anteriores",
+    "answer": 2
+  },
+  {
+    "question": "¿Que elemento se utiliza en el interior de los termometros?",
+    "choice1":"Mercurio",
+    "choice2":"Galio",
+    "choice3":"Plutonio",
+    "choice4":"A y B son correctas",
+    "answer": 4
+  },
+  {
+    "question": "¿De que material eran los preservativos que utilizaba el rey carlos II en el siglo XVII?",
+    "choice1":"Cuero de gato",
+    "choice2":"Intestino de cordero",
+    "choice3":"Latex",
+    "choice4":"ninguna de las anteriores",
+    "answer": 2
+  },
+  {
+    "question": "¿Como se llama el espiritu ruidoso que puede mover y romper objetos?",
+    "choice1":"Mandinga",
+    "choice2":"La llorona",
+    "choice3":"Maria sangrienta",
+    "choice4":"Poltergeist",
+    "answer": 4
+  }
+]
